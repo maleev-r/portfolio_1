@@ -1,0 +1,11 @@
+.loading-image {
+  width: 24px;
+}
+.ajax-wait {
+  min-height: 36px;
+  min-width: 36px;
+  background-image: url("../img/loading.gif");
+  background-repeat: no-repeat;
+  background-size: 36px;
+  background-position: center;
+}
